@@ -1,0 +1,5 @@
+{{#user}}
+Name: Badrul Alam
+Skills: git, GitHub, Jenkins, argocd ,docker , terraform, kubernetes, AWS , Prometheus, loki and Grafana
+Email: badrul.devops@gmail.com
+{{/user}}
